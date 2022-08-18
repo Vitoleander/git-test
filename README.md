@@ -22,3 +22,5 @@ public class Main {
 | --------- | -------- |
 | Bash      | Vim      |
 | CTRL+V    | CTRL-C   |
+
+This is **Bold** this is *Italic* text
