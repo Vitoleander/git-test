@@ -16,3 +16,9 @@ public class Main {
 
 
 [Github](http://www.github.com)
+
+
+| Help File | Markdown |
+| --------- | -------- |
+| Bash      | Vim      |
+| CTRL+V    | CTRL-C   |
