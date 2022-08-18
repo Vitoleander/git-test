@@ -25,4 +25,4 @@ public class Main {
 
 This is **Bold** this is *Italic* text
 
-:monkey: :monkey: Busisness :monnkey: :monkey:
+:monkey: :monkey: Busisness :monkey: :monkey:
